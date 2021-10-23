@@ -227,3 +227,6 @@ There are six steps of the water fall model:
 4. Testing
 5. Deployment
 6. Maintenance
+
+**55) What is an Adapter in Android?**\
+An adapter in Android acts as a bridge between an AdapterView and the underlying data for that view. The adapter holds the data and sends the data to the adapter view, the view can take the data from the adapter view and shows the data on different views like a spinner, list view, grid view, etc.
