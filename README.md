@@ -1,12 +1,15 @@
 # Android-Interview-App
+
 ## Software Engineering Sample Questions
+
 **1) What are the important categories of software?**
-* System software
-* Application software
-* Embedded software
-* Web Applications
-* Artificial Intelligence software
-* Scientific software.
+
+-   System software
+-   Application software
+-   Embedded software
+-   Web Applications
+-   Artificial Intelligence software
+-   Scientific software.
 
 **2) What is the main difference between a computer program and computer software?**\
 A computer program is a piece of programming code. It performs a well-defined task. On the other hand, the software includes programming code, documentation and user guide.
@@ -16,14 +19,15 @@ It is a process of software development which is done to improve the maintainabi
 
 **4) Describe the software development process in brief:**\
 The software development is a life cycle is composed of the following stages:
-* Requirement analysis
-* Specification
-* Software architecture
-* Implementation
-* Testing
-* Documentation
-* Training and support
-* Maintenance
+
+-   Requirement analysis
+-   Specification
+-   Software architecture
+-   Implementation
+-   Testing
+-   Documentation
+-   Training and support
+-   Maintenance
 
 **5) What are SDLC models available?**\
 Waterfall Model, Spiral Model, Big-bag model, Iterative Model, and V- Model are some of the famous SDLC models.
@@ -41,8 +45,9 @@ In the software, development security is always first. So if the execution of th
 **9) Name two tools which are used for keeping track of software requirements?**\
 There many l ways to keep track of requirements.\
 Two commonly used are:
-* Make a requirements specifications document to list all of the requirements.
-* Create an excel sheet the list down the requirement, type, dependency, priority, etc.
+
+-   Make a requirements specifications document to list all of the requirements.
+-   Create an excel sheet the list down the requirement, type, dependency, priority, etc.
 
 **10) What is the main difference between a stubs, a mock?**\
 A stub is a minimal implementation of an interface which generally returns hardcoded data while mock usually verifies outputs against expectations. Those expectations are set in the test.
@@ -67,16 +72,18 @@ This process is helpful to estimate various aspects of the software product. Thi
 
 **16) How to find the size of a software product?**\
 The size of software product can be calculated using by following two methods:
-* Counting the lines of delivered code
-* Counting delivered function points
+
+-   Counting the lines of delivered code
+-   Counting delivered function points
 
 **17) What are function points?**\
 Function points are the features which are provided by the software product. It is considered as a most important measurement for software size.
 
 **18) What are software project estimation techniques available?**\
 Most widely used estimation techniques are:
-* Decomposition technique
-* Empirical technique
+
+-   Decomposition technique
+-   Empirical technique
 
 **19) What is Software configuration management?**\
 Software configuration management is a process of tracking and controlling changes that happen in the software.
@@ -116,12 +123,13 @@ Cohesion is a measure that defines the intra-dependability among the elements of
 
 **28) Mentions some software analysis & design tools?**\
 Some of the most important software analysis and designing tools are:
-* Data Flow Diagrams
-* Structured Charts
-* Structured English
-* Data Dictionary
-* Hierarchical Input Process Output diagrams
-* Entity Relationship Diagrams and Decision tables
+
+-   Data Flow Diagrams
+-   Structured Charts
+-   Structured English
+-   Data Dictionary
+-   Hierarchical Input Process Output diagrams
+-   Entity Relationship Diagrams and Decision tables
 
 **29) What is mean by level-0 Data flow diagram?**\
 Highest abstraction level is called Level 0 of DFD. It is also called context level DFD. It portrays the entire information system as one diagram.
@@ -168,8 +176,9 @@ Aspect Oriented Programming is to segregate the code in such a manner that vario
 
 **42) Why using catch (exception) is always a bad idea?**\
 It is a bad idea because:
-* As there is no variable defined, it is not possible to read the exception
-* It’s good to use an exception when you have known exception types.
+
+-   As there is no variable defined, it is not possible to read the exception
+-   It’s good to use an exception when you have known exception types.
 
 **43) What type of data is passed via HTTP Headers?**\
 Script and metadata passed via HTTP headers.
@@ -184,8 +193,9 @@ Object-oriented design can easily be encapsulated to some degree in component-ba
 Polymorphism is used when there is a need for override functionality when inheriting class. It’s about shared classes and shared contracts.
 
 **47) What is the difference between stack and queue?**
-* Queue is always First In, First Out
-* Stack is always Last In, First Out
+
+-   Queue is always First In, First Out
+-   Stack is always Last In, First Out
 
 **48) What is essential for testing the quality of the code?**\
 According to me, the unit testing framework is essential for testing the quality of the code.
@@ -208,4 +218,12 @@ We should declare a class as abstract in the following situations:
 When the class is inherited from an abstract class, but not all the abstract methods have been overridden.
 In the case when minimum one of the methods in the class is declared as an abstract.
 
+**54) What are the steps of the water fall model?**\
+There are six steps of the water fall model:
 
+1. Requirements Analysis
+2. System Design
+3. Implementation
+4. Testing
+5. Deployment
+6. Maintenance
