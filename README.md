@@ -1,6 +1,6 @@
 # Android-Interview-App
 
-## Software Engineering Sample Questions
+<h2> Software Engineering Sample Questions </h2>
 
 **1) What are the important categories of software?**
 
