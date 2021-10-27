@@ -1,6 +1,6 @@
 <h1>Android-Interview-App</h1>
 
-## Software Engineering Sample Questions
+<h2> Software Engineering Sample Questions </h2>
 
 **1) What are the important categories of software?**
 
